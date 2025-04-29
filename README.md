@@ -41,7 +41,7 @@ Ensure you have the following installed:
   - `LinearSolve` (version 3.7.2)
   - `OrdinaryDiffEqCore` (version 1.22.0)
 
-.
+$$
 ├── src/
 │   ├── main.jl               # Julia code for the system dynamics simulation
 │   ├── utils.jl              # Utility functions for data processing
@@ -54,3 +54,4 @@ Ensure you have the following installed:
 ├── README.md                 # Project documentation
 ├── Project.toml              # Julia project dependencies
 ├── Manifest.toml             # Exact package versions
+$$
