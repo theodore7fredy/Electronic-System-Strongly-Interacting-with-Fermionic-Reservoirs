@@ -35,7 +35,7 @@ Follow these steps to set up and run the project.
 Ensure you have the following installed:
 - [Julia](https://julialang.org/downloads/)  (version = 1.11.4)
 - The following Julia packages:
-  - [HierarchicalEOM.jl](https://github.com/HierarchicalEOM/HierarchicalEOM.jl (version 2.5.1)
+  - [HierarchicalEOM.jl](https://github.com/HierarchicalEOM/HierarchicalEOM.jl) (version 2.5.1)
   - `QuantumToolbox` (version 0.30.0)
   - `SciMLOperators` (version 0.3.13)
   - `LinearSolve` (version 3.7.2)
