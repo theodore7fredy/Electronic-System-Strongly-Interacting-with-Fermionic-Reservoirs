@@ -33,25 +33,11 @@ Follow these steps to set up and run the project.
 
 ### **Prerequisites**
 Ensure you have the following installed:
-- Julia (version = 1.11.4)
+- [Julia](https://julialang.org/downloads/)  (version = 1.11.4)
 - The following Julia packages:
-  - `HierarchicalEOM` (version 2.5.1)
+  - [HierarchicalEOM.jl](https://github.com/HierarchicalEOM/HierarchicalEOM.jl (version 2.5.1)
   - `QuantumToolbox` (version 0.30.0)
   - `SciMLOperators` (version 0.3.13)
   - `LinearSolve` (version 3.7.2)
   - `OrdinaryDiffEqCore` (version 1.22.0)
 
-$$
-├── src/
-│   ├── main.jl               # Julia code for the system dynamics simulation
-│   ├── utils.jl              # Utility functions for data processing
-├── notebooks/
-│   ├── results_analysis.ipynb  # Notebook presenting spectral density and density of states
-├── workflow/
-│   ├── workflow_diagram.tex   # TikZ diagram of the computational workflow
-├── data/
-│   ├── output_data.csv        # Simulated data
-├── README.md                 # Project documentation
-├── Project.toml              # Julia project dependencies
-├── Manifest.toml             # Exact package versions
-$$
